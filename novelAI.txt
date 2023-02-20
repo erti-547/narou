@@ -9,4 +9,26 @@ nsfw, owres, bad anatomy, bad hands, text, error, missing fingers, extra digit, 
 ((illustration)), extremely detailed CG unity 8k, contour deepening beautiful detailed glow, ((floating silver hair bluish towards the ends)), ((chromatic aberration)), ((caustic)), lens flare, ((portrait)), ((sharp focus)), ((masterpiece)), (((best quality))), ((ultra-detailed)), ((disheveled hair)), (crow), (floating black cloud:1.5), Beautiful and detailed black, red moon, ((The black clouds)), (black Wings) , a black cloudy sky, burning,  (1 girl), midriff,{{{half closed eyes}}}, ((Black fog)), Blue eyes, (black smoke), complex pattern, ((Black feathers floating in the air)), (((arms behind back))), (solo), dynamic angle, big top sleeves, beautiful extremely detailed eyes, overexposure, (fist), expressionless, hairs between eyes, ((colorful refraction)),asymmetrical bangs, bare shoulders, (((small breast))), blank stare, tactical fashion, cyberpunk fashion, hera arms CQR, mechanical prosthesis,mecha coverage
 
 反対呪文
-(((ugly))),(((duplicate))),((morbid)),((mutilated)),(((tranny))),mutated hands,(((poorly drawn hands))),blurry,((bad anatomy)),(((bad proportions))),extra limbs, cloned face,(((disfigured))),(((more than 2 nipples))),((((missing arms)))),(((extra legs))),mutated hands,(((((fused fingers))))),(((((too many fingers))))),(((unclear eyes))),lowers, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet, text font ui, malformed hands, long neck, missing limb,(mutated hand and finger: 1.5),(long body: 1.3),(mutation poorly drawn: 1.2),disfigured, malformed mutated, multiple breasts, futa, yaoi, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck))), missing fingers, extra digit, fewer digits, bad feet
+(((nsfw))),(((ugly))),(((duplicate))),((morbid)),((mutilated)),(((tranny))),(((poorly drawn hands))),blurry,((bad anatomy)),(((bad proportions))),extra limbs, cloned face,(((disfigured))),(((more than 2 nipples))),((((missing arms)))),(((((fused fingers))))),(((((too many fingers))))),(((unclear eyes))),lowers, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, bad feet, text font ui, malformed hands, long neck, missing limb,(mutated hand and finger: 1.5),(long body: 1.3),(mutation poorly drawn: 1.2), malformed mutated, multiple breasts, futa, yaoi, gross proportions, (malformed limbs),  ((missing legs)), (((extra arms))), (((extra legs))), (((long neck)))
+
+
+
+テンプレ
+
+((illustration)), extremely detailed CG unity 8k, contour deepening beautiful detailed glow,{{dynamic angle}}, ((floating hair)), ((chromatic aberration)), lens flare, ((sharp focus)), ((masterpiece)), (((best quality))), ((ultra-detailed)), ((disheveled hair)), (1 girl), {{{half closed eyes}}}, (solo), beautiful extremely detailed eyes , hairs between eyes, ((colorful refraction)), (((small breast))), blank stare, ecstatic smile,
+
+((illustration)), extremely detailed CG unity 8k, contour deepening beautiful detailed glow,{{dynamic angle}}, ((floating hair)), ((chromatic aberration)), ((sharp focus)), ((masterpiece)), (((best quality))), ((ultra-detailed)), ((disheveled hair)), (1 girl), (solo), beautiful extremely detailed eyes , hairs between eyes, (((small breast))), ecstatic smile, nsfw, {{prison}}, {jail}, death row, weirdly beautiful, Vaginal ejaculation, Ecstasy, Acme face, sexual climax, slimy lotion, orgasm, semen addiction
+
+Scarlet eyes, navy hair, low ponytail hair, military uniform, glove
+
+all fours, cool girl, steady person, chinese martial arts, scarlet eyes, {{Navy Blue Hair}}, low ponytail hair, military navy uniform, Tight Skirt, leg holster, black glove, arknights
+
+{{{beautiful detailed dark midnight sky}}}, full moon, sakura,  Flying petals, dramatic shadow,
+shrine, shrine gate, witch, scarlet hair, long hair, navy blue robe, witch robe, carry a paintbrush, wide shot, from below
+, {{Indecent crest}}, {{uterus tattoo}}
+
+
+asymmetrical bangs, silver hair, medium bob, tip of hair is blue, {{Indecent crest}}, cool girl, steady person,
+
+
+((illustration)), extremely detailed CG unity 8k, contour deepening beautiful detailed glow,{{dynamic angle}}, ((floating hair)), ((chromatic aberration)), ((sharp focus)), ((masterpiece)), (((best quality))), ((ultra-detailed)), ((disheveled hair)), (1girl), solo girl, beautiful extremely detailed eyes , hairs between eyes, (((small breast))), asymmetrical bangs, cool girl, steady person, charisma, tactical fashion, cyberpunk fashion, mecha coverage, brown hair, dark hair, ((military uniform))

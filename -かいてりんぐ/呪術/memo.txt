@@ -1,0 +1,10 @@
+^(?!.*widget-workCard-titleLabel bookWalker-work-title"[^>]*>([^<]*)).+$\n
+
+
+.*widget-workCard-titleLabel bookWalker-work-title"[^>]*>([^<]*).+\n
+$1
+
+^$\n
+
+
+^.*(ダンジョン|配信).*$\n
